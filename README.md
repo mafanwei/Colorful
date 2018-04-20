@@ -8,6 +8,7 @@
 需要哪种颜色复制到自己的项目res/values/color.xml就可以使用了
 
 以下是我收集的所有颜色
+
     <!--白色 -->
     <color name="ivory">#fffff0</color>
     <!--象牙色 -->
