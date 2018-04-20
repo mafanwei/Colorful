@@ -9,7 +9,8 @@
 
 以下是我收集的所有颜色
 
-    <!--白色 -->
+<!--白色 -->
+
     <color name="ivory">#fffff0</color>
     <!--象牙色 -->
     <color name="lightyellow">#ffffe0</color>
@@ -295,4 +296,4 @@
     <color name="transparent2">#8000</color>
     <!-- 透明 -->
     <color name="transparen3">#9000</color>
-    <!-- 上传图片添加的颜色 -->
+    <!-- 上传图片添加的颜色 -->
